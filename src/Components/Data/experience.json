@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "Front-End  Developer Intern",
+    "organisation": "Varcon Technology",
+    "startDate": "Nov 2022 ",
+    "endDate": "Dec 2022",
+    "location": "Bangalore",
+    "experiences": [
+      "Developed responsive and visually appealing user interfaces using HTML, CSS, and JavaScript."
+    ],
+    "imageSrc": "company/Varcons.png"
+  }
+]

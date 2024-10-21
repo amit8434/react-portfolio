@@ -1,0 +1,26 @@
+[
+  {
+    "role1":"Bachelor of Engineering (CSE)",
+    "BE":"East Point College of Engineering",
+    "startyear":"2019 -",
+    "endyear": "2023",
+    "location": "Bangalore"
+  },
+
+  {
+    "role2":"Intermediate",
+    "BE":"Ram Bhawan Singh College",
+    "startyear": "2018 -",
+    "endyear": " 2019",
+    "location": "Patna"
+  },
+
+  {
+    "role3":"Matriculation",
+    "BE":"School of Creative Learning",
+    "startyear":"2015 -",
+    "endyear":"20216",
+    "location": "Patna"
+  }
+
+]
